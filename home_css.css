@@ -44,3 +44,17 @@ li a {
 li a:hover {
     background-color: #333;
 }
+
+#welcome
+{
+	text-align: center;
+	padding: 2%  2% 2% 2%;
+	margin: 2% 2% 2% 2%;
+}
+
+#houses
+{
+	text-align: center;
+	padding: 2%  2% 2% 2%;
+	margin: 2% 2% 2% 2%;
+}
