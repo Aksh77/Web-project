@@ -9,3 +9,7 @@ Gryffindor
 http://vignette4.wikia.nocookie.net/pottermore/images/1/16/Gryffindor_crest.png/revision/latest/scale-to-width-down/180?cb=20111112232412
 Ravenclaw
 http://vignette3.wikia.nocookie.net/pottermore/images/4/4f/Ravenclaw_crest.png/revision/latest?cb=20111112232334
+Hufflepuff
+http://vignette3.wikia.nocookie.net/pottermore/images/5/5e/Hufflepuff_crest.png/revision/latest/scale-to-width-down/180?cb=20111112232427
+Slytherin
+http://vignette1.wikia.nocookie.net/pottermore/images/4/45/Slytherin_Crest.png/revision/latest/scale-to-width-down/180?cb=20111112232353
