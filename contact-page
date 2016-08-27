@@ -1,5 +1,6 @@
 <html>
 <head>
+	<link rel="stylesheet" href="css_contact.css">
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -9,13 +10,20 @@
 <div class="navbar">
 </div>
 <div id="map">
+<img src="map.jpg">
 </div>
 
 <div id="contact-info">
+<i class="icon fa fa-home fa-fw fa-2x"></i>
+<i class="icon fa fa-mobile fa-fw fa-2x"></i>
+<i class="icon fa fa-envelope fa-fw fa-2x"></i>
+<h1>Contact Information</h1>
 </div>
 
 <div id="contact us>
+<h1>Contact Us</h1>
 </div>
+
 <div id="footer">
 </div>
 
