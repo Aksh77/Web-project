@@ -67,7 +67,7 @@ font-family: Righteous;
 #headings
 {
   font-family: Righteous;
-  font-size: 200%;
+  font-size: 150%;
   text-align: center;
   color: black;
 }
@@ -96,3 +96,9 @@ margin: 2% 1% 2% 1%;
 {
 	border-radius: 5px;
 }
+
+form
+{
+	position: relative;
+}
+
