@@ -44,3 +44,37 @@ li a {
 li a:hover {
     background-color: #333;
 }
+
+#map 
+{
+width: 100%;
+text-align: center;
+padding: 1% 1% 1% 1%;
+margin: 2% 1% 2% 1%;
+font-family: Righteous;
+}
+
+.ic
+{
+  padding: 2% 10% 2% 10%;
+  text-align: center;
+  color: red;
+  font-size: 200%;
+margin: 2% 1% 2% 1%;
+font-family: Righteous;
+}
+
+.headings
+{
+  font-family: Righteous;
+  font-size: 400%;
+}
+
+#contact-us
+{
+  text-align: center;
+  font-family: Righteous;
+  font-size: 200%;
+padding: 1% 1% 1% 1%;
+margin: 2% 1% 2% 1%;
+}
