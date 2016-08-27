@@ -59,7 +59,7 @@ font-family: Righteous;
   padding: 2% 10% 2% 10%;
   text-align: center;
   color: red;
-  font-size: 200%;
+  font-size: 100%;
 margin: 2% 1% 2% 1%;
 font-family: Righteous;
 }
@@ -73,6 +73,16 @@ font-family: Righteous;
 }
 
 #contact-us
+{
+  text-align: center;
+  color: black;
+  font-family: Righteous;
+  font-size: 200%;
+padding: 1% 1% 1% 1%;
+margin: 2% 1% 2% 1%;
+}
+
+#contact-info
 {
   text-align: center;
   color: black;
