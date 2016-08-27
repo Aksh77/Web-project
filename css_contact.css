@@ -3,6 +3,10 @@ body
 background-color: white;
 text-align: center;
 font-family: Righteous;
+}
+
+#nbar
+{
 margin:0;
 background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("https://images.pottermore.com/bxd3o8b291gf/2phT56DSucuUqU6Icm6mCe/b1fd2811691e41ffd1622a07eb528604/HogwartsCastle_WB_F4_HogwartsThroughTheTrees_Illust_100615_Land.jpg?w=1200");
 background-size: 100% 60%;
@@ -12,7 +16,6 @@ font-family:Righteous;
 font-size:20px;
 color:white;
 }
-
 
 ul {
     list-style-type: none;
@@ -50,6 +53,9 @@ font-family: Righteous;
 {
 width: 100%;
 text-align: center;
+padding: 1% 1% 1% 1%;
+margin: 2% 1% 2% 1%;
+font-family: Righteous;
 }
 
 .ic
@@ -58,6 +64,8 @@ text-align: center;
   text-align: center;
   color: red;
   font-size: 200%;
+margin: 2% 1% 2% 1%;
+font-family: Righteous;
 }
 
 .headings
@@ -71,4 +79,6 @@ text-align: center;
   text-align: center;
   font-family: Righteous;
   font-size: 200%;
+padding: 1% 1% 1% 1%;
+margin: 2% 1% 2% 1%;
 }
