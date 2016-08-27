@@ -5,3 +5,7 @@
    <link href="https://fonts.googleapis.com/css?family=Acme" rel="stylesheet" type="text/css">
    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
 
+Gryffindor
+http://vignette4.wikia.nocookie.net/pottermore/images/1/16/Gryffindor_crest.png/revision/latest/scale-to-width-down/180?cb=20111112232412
+Ravenclaw
+http://vignette3.wikia.nocookie.net/pottermore/images/4/4f/Ravenclaw_crest.png/revision/latest?cb=20111112232334
