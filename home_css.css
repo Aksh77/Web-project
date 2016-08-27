@@ -41,14 +41,6 @@ li a {
     text-decoration: none;
 }
 
-#heading
-{
-  font-family: Righteous;
-  font-size: 300%;
-  text-align: center;
-  color: black;
-}
-
 li a:hover {
     background-color: #333;
 }
