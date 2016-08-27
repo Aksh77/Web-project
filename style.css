@@ -14,11 +14,18 @@ h1{
 h2
 {
 	font-size: 20px;
+	border-bottom: 1px solid red;
+	color:#111;
+}
+p{
+	font-size:30px;
+	color:black;
+	border-bottom: 2px red;
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding-left:0%;
     overflow: hidden;
 }
 
