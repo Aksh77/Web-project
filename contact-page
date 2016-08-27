@@ -1,0 +1,23 @@
+<html>
+<head>
+   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+</head>
+<body>
+
+<div class="navbar">
+</div>
+<div id="map">
+</div>
+
+<div id="contact-info">
+</div>
+
+<div id="contact us>
+</div>
+<div id="footer">
+</div>
+
+<body>
+</html>
