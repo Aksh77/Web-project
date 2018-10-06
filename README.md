@@ -1,4 +1,4 @@
-# :beginner: Harry Potter Website (Web-Project)
+# :beginner: Web Project (Hogwarts Website)
 
 A simple project to get familiar with the basics of web designing. 
 
